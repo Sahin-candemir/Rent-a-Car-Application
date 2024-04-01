@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka server/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notification-service/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-service/payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reservation-service/reservation-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-management/user-management/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vehicle-management/vehicle-management/src/main/java" charset="UTF-8" />
+  </component>
+</project>
