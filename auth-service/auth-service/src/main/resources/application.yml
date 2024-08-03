@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/auth_security
     username: postgres
-    password: 9014
+    password: 1234
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
@@ -17,3 +17,14 @@ spring:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
 server:
   port: 8092
+
+openapi:
+  service:
+    title: auth-service doc
+    version: 1.0.0
+    url: http://localhost:8088 #api gateway url
+springdoc:
+  api-docs:
+    path: /auth-service/v3/api-docs
+  swagger-ui:
+    path: /auth-service/swagger-ui.html
